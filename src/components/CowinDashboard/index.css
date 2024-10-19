@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.cowin-container {
+  background-color: #161625;
+  background-size: cover;
+  height: 200vh;
+}
+.website-logo {
+  height: 40px;
+  width: 40px;
+  margin-top: 15px;
+}
+.website-contaienr {
+  display: flex;
+  margin-left: 30px;
+}
+.cowin {
+  color: #2cc6c6;
+  font-family: roboto;
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+.main-heading {
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 20px;
+  margin-left: 30px;
+}
